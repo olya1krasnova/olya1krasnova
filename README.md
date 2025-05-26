@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=olya1krasnova&color=green)
-# Olga Krasnova
+# Olya Krasnova
 ## ⭐️ Front-end developer, 7+ years of experience
     
 📧 [okrasnova.0209@gmail.com](mailto:okrasnova.0209@gmail.com) 📞 [+7 917 922 19 13](tel:+79179221913)
