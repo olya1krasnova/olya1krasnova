@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=olya1krasnova&color=green)
 # Olya Krasnova
-## ⭐️ Front-end developer, 7+ years of experience
+## ⭐️ Front-end developer, 6+ years of experience
     
 📧 [okrasnova.0209@gmail.com](mailto:okrasnova.0209@gmail.com) 📞 [+7 917 922 19 13](tel:+79179221913)
 
@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Summary
-Frontend Developer (React/Next.js/TypeScript) with 7+ years of experience, strong expertise in optimization, architecture, and mentoring
+Frontend Developer (React/Next.js/TypeScript) with 6+ years of experience, strong expertise in optimization, architecture, and mentoring
 
 ---
 
@@ -61,21 +61,13 @@ Additional experience: Worked with monolithic RoR apps (Pug, Sass, CoffeeScript)
 
 ---
 
-### 🕓 June 2016 — October 2018 (2 years 5 months)
-**Frontend Markup Developer**, OOO Strategiya rosta, Kazan
-
-* Developed responsive, cross-browser layouts for a franchise and business portal
-* Email template development for various clients
-
-**Stack**: HTML, CSS, JavaScript, jQuery, Jade, Less, Gulp, BEM, MaterializeCSS
-
 ## 🎓 Education
 
 ### 📅 2024 [Yandex Practicum](https://practicum.yandex.ru/algorithms/)
 
 **Algorithms and Data Structures**
 
-### 📅 2016 [HTML Academy](https://htmlacademy.ru/)
+### 📅 2017 [HTML Academy](https://htmlacademy.ru/)
 HTML & CSS Fundamentals
 
 ### 📅 2010-2015 Volga State University of Technology (Yoshkar-Ola)
